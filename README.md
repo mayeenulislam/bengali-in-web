@@ -30,7 +30,7 @@ Language: Bengali (`bn_BD`)
 
 If you are seeking ways to upload Bengali (Bānglā) content using a CSV, this in-depth article will help you to do that in 3 different ways. With a cross-platform solution using Microsoft Excell and Open Office Calc. The article is written in Bengali.
 
-📄 [**PHP-MySQL দিয়ে CSV ফাইল থেকে বাংলা তথ্য আপলোড**](https://tuts.nanodesignsbd.com/csv-bengali-import-using-php-mysql/) _by Mayeenul Islam_<br>
+📄 [**PHP-MySQL দিয়ে CSV ফাইল থেকে বাংলা তথ্য আপলোড**](https://mayeenulislam.github.io/tuts/csv-bengali-import-php-mysql/) _by Mayeenul Islam_<br>
 Language: Bengali (`bn_BD`)
 
 ## WordPress Theme with Bengali Support
